@@ -1,0 +1,6 @@
+{
+  "name": "Blok Bulmaca",
+  "description": "8x8 ızgarada renkli blokları yerleştirip satır ve sütunları patlatarak yüksek skor ve kombolar elde ettiğiniz eğlenceli blok bulmaca oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

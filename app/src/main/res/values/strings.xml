@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blok Bulmaca</string>
+    <string name="score_label">Skor</string>
+    <string name="best_score_label">En Yüksek</string>
+    <string name="game_over_title">Oyun Bitti!</string>
+    <string name="play_again">Yeniden Başla</string>
+    <string name="combo_text">KOMBO!</string>
+</resources>
